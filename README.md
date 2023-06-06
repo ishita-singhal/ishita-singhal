@@ -5,12 +5,13 @@
   Heyy there..
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- ---
+ 
 
 ### :woman_technologist: About Me :
 
-
- -👋 Hi, I’m a frontend developer and yet to learn a lot. I love to make the websites creative and interactive.
+ -👋 Hi,This is Ishita Singhal <br>
+ -I’m a frontend developer and yet to learn a lot. I love to make the websites creative and interactive.<br>
+ -Would love to collaborate on my languages and tools.
  <br><br>
  Connect me <br>
  
